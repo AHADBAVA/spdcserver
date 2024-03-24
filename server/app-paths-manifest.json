@@ -1,0 +1,11 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/(admin)/admin/add-softwares/page": "app/(admin)/admin/add-softwares/page.js",
+  "/(admin)/admin/users/page": "app/(admin)/admin/users/page.js",
+  "/(auth)/login/page": "app/(auth)/login/page.js",
+  "/(main)/services/page": "app/(main)/services/page.js",
+  "/(admin)/admin/add-jobs/page": "app/(admin)/admin/add-jobs/page.js",
+  "/(auth)/signup/page": "app/(auth)/signup/page.js",
+  "/(admin)/admin/page": "app/(admin)/admin/page.js",
+  "/(home)/page": "app/(home)/page.js"
+}

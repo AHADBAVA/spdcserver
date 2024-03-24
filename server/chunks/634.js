@@ -1,0 +1,1 @@
+"use strict";exports.id=634,exports.ids=[634],exports.modules={7634:(e,s,r)=>{r.r(s),r.d(s,{$$typeof:()=>d,__esModule:()=>o,default:()=>n});let t=(0,r(6843).createProxy)(String.raw`C:\Users\Abdul Ahad\Desktop\spdc server front end\spdc-frontend\src\components\admin\jobs\JobsForm.tsx`),{__esModule:o,$$typeof:d}=t,n=t.default}};

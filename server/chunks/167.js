@@ -1,0 +1,1 @@
+"use strict";exports.id=167,exports.ids=[167],exports.modules={6167:(e,s,t)=>{t.r(s),t.d(s,{$$typeof:()=>o,__esModule:()=>d,default:()=>p});let r=(0,t(6843).createProxy)(String.raw`C:\Users\Abdul Ahad\Desktop\spdc server front end\spdc-frontend\src\components\auth\SignUpForm.tsx`),{__esModule:d,$$typeof:o}=r,p=r.default}};
